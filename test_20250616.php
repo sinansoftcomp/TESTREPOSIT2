@@ -1,9 +1,6 @@
 <?php
-// test_20250616.php
-// PHP µð¹ö±ë Å×½ºÆ® »ùÇÃ
 function add($a, $b) {
     $result = $a + $b;
-    // º¯¼ö °ª Ãâ·Â (µð¹ö±ë)
     var_dump([
         'a' => $a,
         'b' => $b,
