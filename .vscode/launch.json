@@ -10,9 +10,9 @@
             "request": "launch",
             "port": 9003,
             //"log": true,
-            "pathMappings": {
-                "/www/gaplus/bin/sub/test":"${workspaceFolder}"
-            } 
+            //"pathMappings": {
+            //    "/www/gaplus/bin/sub/test/":"${workspaceFolder}"
+            //} 
         }
     ]
 }
